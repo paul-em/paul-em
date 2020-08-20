@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a developer and cofounder working at Akarion. If you are searching for a Dev-Job in the field of Node.js/Vue.js/GraphQL, hit me up.
+
 <!--
 **paul-em/paul-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
